@@ -2,7 +2,7 @@ class Admin {
 
     getAdmin() {
         return {
-            first_name: "Avadhut",
+            first_name: "Vinod",
             last_name: "sawant"
         }
     }
